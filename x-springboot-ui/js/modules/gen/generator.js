@@ -44,8 +44,8 @@ var vm = new Vue({
         showList: true,
         config:{
             genTable:"",
-            mainPath:"com.suke.czx",
-            packagePath:"com.suke.czx.modules",
+            mainPath:"com.neuqsoft.rest",
+            packagePath:"com.neuqsoft.rest.modules",
             moduleName:"",
             author:"czx",
             email:"object_czx@163.com"

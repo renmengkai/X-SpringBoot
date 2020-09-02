@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestBody;
 import ${package}.${moduleName}.entity.${className};
 import ${package}.${moduleName}.service.${className}Service;
-import com.suke.czx.common.utils.R;
+import com.neuqsoft.rest.common.utils.R;
 import lombok.AllArgsConstructor;
-import com.suke.czx.common.annotation.SysLog;
-import com.suke.czx.common.base.AbstractController;
+import com.neuqsoft.rest.common.annotation.SysLog;
+import com.neuqsoft.rest.common.base.AbstractController;
 import org.springframework.security.access.prepost.PreAuthorize;
 import java.util.Arrays;
 
